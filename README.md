@@ -4,9 +4,6 @@ A **reference implementation** that shows how to use AI to manage **dynamic pric
 Built with a **Python FastAPI** backend and a **React (Vite)** frontend. Includes **temporary test data** and a
 simple **pricing engine** that can run with or without a trained ML model.
 
-> Straight talk: this is a learning-grade repo you can extend into a real pilot. The rules/ML are intentionally transparent.
-> It’s designed to help data/AI teams move from *idea → prototype → controlled trial* without ceremony.
-
 ---
 
 ## What it does
@@ -56,9 +53,7 @@ npm run dev  # dev server
 npm run build && npm run preview
 ```
 
-Open the UI at the URL that Vite prints (typically http://localhost:5173). The backend defaults to http://localhost:8000.
-
-> Tip: If you host the backend elsewhere, change `VITE_API_BASE` in `frontend/.env` (see below).
+Open the UI at the URL that Vite prints (http://localhost:5173). The backend defaults to http://localhost:8000.
 
 ---
 
@@ -141,6 +136,4 @@ MIT — see [LICENSE](LICENSE).
 ---
 
 ## Attribution & Credits
-
-Author: You. Kickstarted by a ChatGPT scaffold.
 Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
