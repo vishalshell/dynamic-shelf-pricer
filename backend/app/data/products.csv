@@ -1,0 +1,9 @@
+id,name,category,cost,base_price,ttl_days
+milk-1L,Fresh Milk 1L,Dairy,4.2,6.5,7
+yogurt-150g,Yogurt 150g,Dairy,1.2,2.5,10
+bread-loaf,White Bread Loaf,Bakery,1.8,3.5,3
+salad-bowl,Garden Salad Bowl,Ready-to-eat,2.5,5.5,2
+berries-250g,Berries 250g,Produce,5.0,8.5,4
+chicken-breast,Chicken Breast 500g,Meat,6.0,9.5,5
+sushi-6pcs,Sushi 6 pcs,Seafood,4.8,8.0,1
+cut-fruit,Cut Fruit Mix,Produce,3.0,5.0,2
